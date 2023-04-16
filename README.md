@@ -32,16 +32,4 @@ Join in for our bohemian revolution!
 
 [Anena Samrin](https://github.com/sammyrin)
 
-### First evaluation progress:
 
- Right now we have completed the front end part of the action platform which, at the moment, basically consist of 
- 
- 1.Crux and core of the platform- it's introduction and the purpose it aims to fulfill.
- 
- 2.We have also tried to inform the users why there is a need to take action.
- 
- 3.The next page consists of petitions for which you can take action . The User can also contribute art in the form of blogs,painting,cartoon,videos,or any random literature.
- 
- 4.Then comes the blogs which aims for change in the present society.
- 
- 5.Below that we have left our credentials , our - discord,twitter and youtube accounts.
